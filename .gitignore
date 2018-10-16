@@ -1,0 +1,7 @@
+.vagrant
+
+# OS X noise
+.DS_Store
+
+*.rpm
+*.bin
